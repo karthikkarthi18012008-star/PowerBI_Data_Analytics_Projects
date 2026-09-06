@@ -1,7 +1,6 @@
 # 📊 Sales Performance & Product Analysis Dashboard
 
 ## 📌 Project Overview
-
 An interactive **Power BI Sales Analytics Dashboard** developed to analyze sales performance, profitability, product performance, customer activity, and promotional impact.
 
 The dashboard transforms raw sales data into meaningful business insights using **Power Query, DAX, data modeling, interactive filters, and data visualization**.
