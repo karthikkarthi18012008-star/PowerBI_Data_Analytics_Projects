@@ -158,7 +158,7 @@ This provides a more detailed view of business performance than the high-level K
 ---
 
 # 📋 4. Detailed Sales Data
-<a href:"C:\Users\Karthik T\Downloads\Store+Data.xlsx">Data set</a>
+
 The detailed table provides transaction-level information for deeper analysis.
 
 ### Fields included
