@@ -5,7 +5,7 @@
 An interactive **Power BI Sales Analytics Dashboard** developed to analyze sales performance, profitability, product performance, customer activity, and promotional impact.
 
 The dashboard transforms raw sales data into meaningful business insights using **Power Query, DAX, data modeling, interactive filters, and data visualization**.
-<img width="1298" height="726" alt="image" src="https://github.com/user-attachments/assets/b3735239-481f-4aa8-8c77-2a03b976cbd5" />
+
 
 ---
 
@@ -27,7 +27,7 @@ The main objective of this project is to help business teams quickly understand:
 # 📊 Dashboard Pages
 
 ## 1. Sales Overview
-
+<img width="1298" height="726" alt="image" src="https://github.com/user-attachments/assets/b3735239-481f-4aa8-8c77-2a03b976cbd5" />
 The Overview dashboard provides a high-level summary of business performance.
 
 ### Key KPIs
@@ -89,6 +89,7 @@ Visualizes the distribution of sales across different geographical locations and
 ---
 
 # 🏆 2. Top & Bottom 5 Product Analysis
+<img width="1312" height="732" alt="image" src="https://github.com/user-attachments/assets/2f0906a7-a5c7-4998-b650-1cfd2c4359f7" />
 
 This page focuses on identifying the products that contribute most and least to business performance.
 
@@ -132,6 +133,7 @@ This analysis can help businesses:
 ---
 
 # 📈 3. Sales, Profit & Quantity Comparison
+<img width="1305" height="735" alt="image" src="https://github.com/user-attachments/assets/ca65f7f7-a837-4015-b94b-a909cc3ef5a8" />
 
 This page allows users to compare the three major performance metrics:
 
@@ -157,7 +159,7 @@ This provides a more detailed view of business performance than the high-level K
 ---
 
 # 📋 4. Detailed Sales Data
-
+<a href:"C:\Users\Karthik T\Downloads\Store+Data.xlsx">Data set</a>
 The detailed table provides transaction-level information for deeper analysis.
 
 ### Fields included
