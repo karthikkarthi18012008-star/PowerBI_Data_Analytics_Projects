@@ -41,42 +41,6 @@ The main objectives of this project are:
 
 ---
 
-# 🔄 End-to-End Data Pipeline
-
-```text
-                Raw Agricultural Dataset
-                         │
-                         ▼
-                 ┌───────────────┐
-                 │    AWS S3     │
-                 │ Cloud Storage │
-                 └───────┬───────┘
-                         │
-                         ▼
-                 ┌───────────────┐
-                 │   Snowflake   │
-                 │ Data Warehouse│
-                 └───────┬───────┘
-                         │
-                         ▼
-                 ┌───────────────┐
-                 │  Power Query  │
-                 │ Clean &       │
-                 │ Transform Data│
-                 └───────┬───────┘
-                         │
-                         ▼
-                 ┌───────────────┐
-                 │   Power BI    │
-                 │ Data Modeling │
-                 │     + DAX     │
-                 └───────┬───────┘
-                         │
-                         ▼
-                 ┌───────────────┐
-                 │ Interactive   │
-                 │  Dashboards   │
-                 └───────────────┘
 
 
 | Technology            | Purpose                                                       |
